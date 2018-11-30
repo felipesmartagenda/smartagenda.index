@@ -1,0 +1,29 @@
+.pai{
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.logo{
+    width: 10%;
+    margin: auto;
+}
+.texto1 {
+    color: gray;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size:1em;
+}
+.titulo {
+    font-family: sans-serif;
+    color: black;
+    font-weight: bold;
+    font-size: 2em; 
+}
+
+.fundo{
+    background-image: url(fundo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 155px;
+}
